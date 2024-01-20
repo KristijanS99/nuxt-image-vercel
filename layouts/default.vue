@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <NuxtImg
+      width="320"
+      src="https://wp-admin.trendseeker.co/wp-content/uploads/2023/06/Untitled-design-1.jpg"
+      alt=""
+    />
+  </div>
+</template>
