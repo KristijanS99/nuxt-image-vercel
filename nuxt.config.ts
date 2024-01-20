@@ -29,7 +29,7 @@ export default defineNuxtConfig({
   components: true,
   buildModules: ["@nuxt/image"],
   image: {
-    domains: ["wp-admin.trendseeker.co"],
+    domains: ["wp-admin.trendseeker.co", "trendseeker.co"],
     provider: "vercel",
     vercel: {
       baseURL: "https://wp-admin.trendseeker.co",
